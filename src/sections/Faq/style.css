@@ -1,0 +1,21 @@
+.faq-row-wrapper .row-content{
+    padding: 5px 5px;
+    padding-left: 10px !important;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    border-radius: 30px;
+    font-size: x-large !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+
+.faq-row-wrapper >.faq-title {
+    font-size: xx-large !important;
+    padding-bottom: 45px;
+}
+
+.faq-row {
+    border-bottom: 1px solid #66BB6A !important;
+
+}
