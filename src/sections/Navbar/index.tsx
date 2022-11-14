@@ -14,7 +14,7 @@ import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
 
 import Logo from '../../assests/images/logo.png'
 
-const Links = [['TIMELINE','#timeline'],['PRIZES','#prizes'],['FAQ','#faq']];
+const Links = [['TIMELINE ','#timeline'],['PRIZES','#prizes'],['FAQ','#faq']];
 
 const NavLink = ({ href,children }: { children: ReactNode,href: string }) => (
   <Link
